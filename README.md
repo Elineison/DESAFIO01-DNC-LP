@@ -16,7 +16,7 @@ Tecnologias Utilizadas
 HTML
 CSS
 
-Para visualizar o projeto, basta acessar [descrever como clonar ou acessar o projeto].
+Para visualizar o projeto, basta acessar desafio01-arquitetura.netlify.app
 
 Agradecimentos
 Gostaria de expressar minha gratidão à Escola DNC por proporcionar desafios que contribuem significativamente para o meu aprendizado e crescimento na área de tecnologia.

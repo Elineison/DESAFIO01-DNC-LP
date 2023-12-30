@@ -22,6 +22,7 @@ Agradecimentos
 Gostaria de expressar minha gratidão à Escola DNC por proporcionar desafios que contribuem significativamente para o meu aprendizado e crescimento na área de tecnologia.
 
 Contato
+https://www.linkedin.com/in/elineison-inacio-de-sousa-a510412a3/
 Se você tiver alguma dúvida, sugestão ou feedback, fique à vontade para entrar em contato. Estou sempre aberto a novas ideias e oportunidades de aprendizado.
 
 Obrigado por conferir meu projeto! 🚀
